@@ -6,9 +6,6 @@ This is a simple web application that allows users to check the weather for a sp
 
 - [Features](#features)
 - [Interface](#interface)
-  - [Screen Elements](#screen-elements)
-  - [Weather Card](#weather-card)
-  - [Weather Cards Sample outputs](#weather-cards-sample-outputs)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Running Locally with XAMPP](#running-locally-with-xampp)
@@ -25,15 +22,15 @@ This is a simple web application that allows users to check the weather for a sp
 
 ## Interface
 
- - ## **Search Element**: <br>
+ -  **Search Element**: <br>
       ![w3](https://github.com/Mabdullahatif/WeatherCard_WebApp/assets/113658337/109f2bb8-04ef-44b3-a8e6-fc8ce5df5994)
    
       ![w4](https://github.com/Mabdullahatif/WeatherCard_WebApp/assets/113658337/2a219903-1f32-42ec-bf4f-1a52555f9b2b)
 
-- ## **Weather Card**: <br>
+-  **Weather Card**: <br>
      <img src="https://github.com/Mabdullahatif/WeatherCard_WebApp/assets/113658337/09dd3ac5-4e54-4c6a-8740-7290beec14e9" alt="Main Screen" width="200" height="300">
 
-- ## **Weather Cards Sample outputs**: <br>
+-  **Weather Cards Sample outputs**: <br>
      <img src="https://github.com/Mabdullahatif/WeatherCard_WebApp/assets/113658337/e859dc0a-2a2d-44b4-ae59-79ff632b330c" alt="Welcome Screen" width="600" height="300">
      <img src="https://github.com/Mabdullahatif/WeatherCard_WebApp/assets/113658337/c54b87c9-ef70-495d-ba2c-5ff544d1595a" alt="Welcome Screen" width="600" height="300">
 
